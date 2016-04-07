@@ -17,20 +17,19 @@
         android:layout_height="match_parent"
         android:text="Press for Random Direction"
         android:id="@+id/randomizeButton"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"/>
+        android:background="#0000"/>
 
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/leftArrow"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"/>
+        android:src="@drawable/left_arrow"
+        android:visibility="gone"/>
 
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/rightArrow"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"/>
+        android:src="@drawable/right_arrow"
+        android:visibility="gone"/>
 </RelativeLayout>
