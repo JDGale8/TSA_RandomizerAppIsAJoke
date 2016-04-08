@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TSA_RandomizerIsaAJoke</string>
+    <string name="title_activity_welcome_page">WelcomePage</string>
+    <string name="menuClick">Please click to continue</string>
+    <string name="menuWelcome">Welcome to the $1.4 million TSA Randomizer App</string>
+    <string name="tsaIcon">TSA Icon</string>
 </resources>
