@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        Log.d(TAG, "MAIN ACTIVITY LOADED");
+
         final ImageView leftArrow = (ImageView) findViewById(R.id.leftArrow);
         final ImageView rightArrow = (ImageView) findViewById(R.id.rightArrow);
         final Button btn = (Button) findViewById(R.id.randomizeButton);
