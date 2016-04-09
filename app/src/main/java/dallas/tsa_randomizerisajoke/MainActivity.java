@@ -1,4 +1,4 @@
-package dallas.tsa_randomizerisaajoke;
+package dallas.tsa_randomizerisajoke;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

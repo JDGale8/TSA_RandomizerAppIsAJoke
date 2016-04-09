@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="dallas.tsa_randomizerisaajoke" >
+    package="dallas.tsa_randomizerisajoke" >
 
     <application
         android:allowBackup="true"
@@ -18,7 +18,7 @@
 
         <activity android:name=".MainActivity">
             <intent-filter>
-                <action android:name="dallas.tsa_randomizerisaajoke.MainActivity" />
+                <action android:name="dallas.tsa_randomizerisajoke.MainActivity" />
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>

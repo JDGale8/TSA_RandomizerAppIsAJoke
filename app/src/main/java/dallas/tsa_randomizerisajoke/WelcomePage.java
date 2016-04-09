@@ -1,4 +1,4 @@
-package dallas.tsa_randomizerisaajoke;
+package dallas.tsa_randomizerisajoke;
 
 import android.content.Intent;
 import android.os.StrictMode;
@@ -27,7 +27,7 @@ public class WelcomePage extends AppCompatActivity {
         advanceBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent mainIntent = new Intent("dallas.tsa_randomizerisaajoke.MainActivity");
+                Intent mainIntent = new Intent("dallas.tsa_randomizerisajoke.MainActivity");
                 startActivity(mainIntent);
             }
         });

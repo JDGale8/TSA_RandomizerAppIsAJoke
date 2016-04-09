@@ -1,4 +1,4 @@
-package dallas.tsa_randomizerisaajoke;
+package dallas.tsa_randomizerisajoke;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
